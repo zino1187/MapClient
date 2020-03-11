@@ -25,8 +25,8 @@ class ViewController: UIViewController {
         
         //딕셔너리
         let params = [
-          "lati":t_lat.text!,
-          "longi":t_lng.text!,
+          "lat":t_lat.text!,
+          "lng":t_lng.text!,
           "content":t_content.text!
         ]
         
